@@ -9,7 +9,6 @@ class person:
           return f"{self.name}({self.age})"
 p1 = person('sandrine',18)
 print(p1.name )
-p1.age = 19
 print(p1.age) 
 print(p1)
 print(p1.age)
